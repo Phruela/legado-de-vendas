@@ -1,6 +1,6 @@
 # Legado de Vendas
 
 ## Objetivo
-Criando a base do repositório do projeto para tornar o ambiente organizado.
+Criar um pipeline com os relatórios diários de vendas que limpa, valida e carrega os dados no PostgreSQL.
 
 ## Como rodar
