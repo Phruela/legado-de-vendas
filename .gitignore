@@ -1,3 +1,11 @@
+#Arquivos ignorados
 .env
 .venv
-data/
+data/raw/*
+data/rejected/*
+
+#Arquivos não ignorados
+!data/rejected/.keep
+!data/raw/.keep
+
+
